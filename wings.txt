@@ -1,0 +1,1 @@
+sudo wings configure --panel-url https://services.scoutwired.org --token peli_mFnN8nRIh6gTF0aTDtpBm1C5EgxlB7PvNcbhBNC37gI --node 1
